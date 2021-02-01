@@ -1,0 +1,60 @@
+* {
+
+}
+
+body {
+    display: block;
+}
+
+#bkgr-container {
+    margin: auto;
+    height: 800px ;
+    background-color: steelblue;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url(/assets/roberto-nickson-CWrCFYTGVYc-unsplash\ \(3\).jpg);
+}
+
+#about-me {
+    padding: 10px;
+    margin: 5rem;
+    background-color: black;
+    opacity: 0.85;
+    display: inline-block;
+}
+
+#me {
+    width: auto;
+    height: auto;
+    opacity: 1;
+    
+}
+
+.col-sm-6 {
+    color: white;
+}
+
+
+
+
+
+
+
+
+footer {
+    background-color: steelblue;
+    height: 80px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    display: block;
+    text-align: center;
+    
+}
+
+a {
+    color: black;
+   padding-left: 4rem;
+}
+
