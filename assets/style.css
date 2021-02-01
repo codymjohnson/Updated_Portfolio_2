@@ -1,6 +1,4 @@
-* {
 
-}
 
 body {
     display: block;
@@ -13,12 +11,12 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    background-image: url(/assets/roberto-nickson-CWrCFYTGVYc-unsplash\ \(3\).jpg);
+    background-image: url(../assets/roberto-nickson-CWrCFYTGVYc-unsplash.jpg);
 }
 
 #about-me {
-    padding: 10px;
-    margin: 5rem;
+    padding: 3rem;
+    margin: 6rem;
     background-color: black;
     opacity: 0.85;
     display: inline-block;
@@ -35,6 +33,22 @@ body {
     color: white;
 }
 
+#skills-container {
+    background-color: black;
+    color: #ffc710;
+    font-family: 'Montserrat', sans-serif;
+    opacity: 0.85;
+    margin-top: 3rem;
+    padding: 2rem;
+}
+
+#skill-icons {
+    color: rgb(255, 208, 0);
+    text-align: center;
+}
+
+
+
 
 
 
@@ -48,6 +62,7 @@ footer {
     position: fixed;
     bottom: 0;
     left: 0;
+    right: 0;
     display: block;
     text-align: center;
     
