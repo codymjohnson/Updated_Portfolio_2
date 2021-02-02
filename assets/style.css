@@ -10,8 +10,14 @@ body {
     background-color: steelblue;
     background-repeat: no-repeat;
     background-position: center;
+    background-attachment: fixed;
     background-size: cover;
     background-image: url(../assets/roberto-nickson-CWrCFYTGVYc-unsplash.jpg);
+}
+
+nav {
+    left: 0;
+    right: 0;
 }
 
 #about-me {
@@ -66,9 +72,7 @@ body {
     text-align: center;
 }
 
-#contact-links {
-    
-}
+
 
 
 
@@ -93,7 +97,7 @@ a {
 }
 
 a:hover {
-    color: rgb(201, 138, 3) ;
+    color: rgb(255, 145, 0) ;
     cursor: pointer ;
 }
 
