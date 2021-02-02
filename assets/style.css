@@ -47,19 +47,27 @@ body {
     text-align: center;
 }
 
+#contacts-container {
+    background-color: black;
+    margin-top: 12rem;
+    padding: 6rem;
+    opacity: 0.85;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    text-align: center;
+}
 
-
-
-
-
-
+#contact-links {
+    
+}
 
 
 
 footer {
-    background-color: steelblue;
-    height: 80px;
+    background-color: rgb(224, 192, 7);
+    height: 7rem;
     position: fixed;
+    padding-top: 1rem;
     bottom: 0;
     left: 0;
     right: 0;
@@ -69,7 +77,13 @@ footer {
 }
 
 a {
-    color: black;
-   padding-left: 4rem;
+    color: rgb(107, 106, 106);
+   padding: 4rem;
+   
+   
+}
+
+a:hover {
+    color: rgb(201, 138, 3) ;
 }
 
