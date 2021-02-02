@@ -43,8 +43,17 @@ body {
 }
 
 #skill-icons {
+    padding-top: 2rem;
     color: rgb(255, 208, 0);
     text-align: center;
+}
+
+#project-container {
+    padding: 4rem;
+    margin-top: 12rem;
+    color: white;
+    background-color: black;
+    opacity: 0.85;
 }
 
 #contacts-container {
@@ -64,7 +73,7 @@ body {
 
 
 footer {
-    background-color: rgb(224, 192, 7);
+    background-color: rgb(255, 192, 17);
     height: 7rem;
     position: fixed;
     padding-top: 1rem;
@@ -85,5 +94,6 @@ a {
 
 a:hover {
     color: rgb(201, 138, 3) ;
+    cursor: pointer ;
 }
 
