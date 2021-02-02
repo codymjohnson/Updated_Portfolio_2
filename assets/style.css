@@ -23,6 +23,7 @@ nav {
 #about-me {
     padding: 3rem;
     margin: 6rem;
+    color: white;
     background-color: black;
     opacity: 0.85;
     display: inline-block;
@@ -32,16 +33,15 @@ nav {
     width: auto;
     height: auto;
     opacity: 1;
-    
 }
 
-.col-sm-6 {
+.skills {
     color: white;
 }
 
 #skills-container {
     background-color: black;
-    color: #ffc710;
+    color: white;
     font-family: 'Montserrat', sans-serif;
     opacity: 0.85;
     margin-top: 3rem;
@@ -60,7 +60,10 @@ nav {
     color: white;
     background-color: black;
     opacity: 0.85;
+    text-align: center;
 }
+
+
 
 #contacts-container {
     background-color: black;
@@ -72,13 +75,9 @@ nav {
     text-align: center;
 }
 
-
-
-
-
 footer {
     background-color: rgb(255, 192, 17);
-    height: 7rem;
+    height: 6rem;
     position: fixed;
     padding-top: 1rem;
     bottom: 0;
@@ -86,14 +85,11 @@ footer {
     right: 0;
     display: block;
     text-align: center;
-    
 }
 
 a {
     color: rgb(107, 106, 106);
    padding: 4rem;
-   
-   
 }
 
 a:hover {
