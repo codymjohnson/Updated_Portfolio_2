@@ -10,6 +10,7 @@
 
 # Deployed Site
 [Link](https://codymjohnson.github.io/Updated_Portfolio_2/)
+![Image](Screenshot (42).png)
 
 # Description
 An updated responsive version of my full-stack development Portfolio.
