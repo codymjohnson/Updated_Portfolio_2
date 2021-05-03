@@ -25,14 +25,15 @@ nav {
     margin: 6rem;
     color: white;
     background-color: black;
-    opacity: 0.85;
+    opacity: 0.95;
     display: inline-block;
 }
 
 #me {
     width: auto;
     height: auto;
-    opacity: 1;
+    opacity: 1 !important;
+    border-radius: 20px;
 }
 
 .skills {
